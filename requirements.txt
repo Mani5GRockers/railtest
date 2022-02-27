@@ -1,5 +1,5 @@
 anytree
-aria2c
+aria
 appdirs
 attrdict
 beautifulsoup4
