@@ -1,6 +1,5 @@
 anytree
 appdirs
-erara2p
 attrdict
 beautifulsoup4
 bencoding
