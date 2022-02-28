@@ -16,6 +16,7 @@ cfscrape==2.1.1
 chardet==3.0.4
 charset-normalizer==2.0.10
 colorama==0.4.4
+dotenv
 dbus-python==1.2.16
 distro-info===0.23ubuntu1
 feedparser==6.0.8
