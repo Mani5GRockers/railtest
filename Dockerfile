@@ -5,10 +5,6 @@ RUN chmod 777 /usr/src/8438828237238723gwdghwgdywegywye/8438828237238723gwdghwgd
 
 RUN apt install mediainfo -y
 
-RUN pip install aria2p
-
-RUN pip install qbittorrent-api
-
 COPY requirements.txt .
 RUN pip3 install --no-cache-dir -r requirements.txt
 
