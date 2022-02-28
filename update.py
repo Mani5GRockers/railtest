@@ -1,5 +1,5 @@
+pip install dotenv
 import logging
-import dotenv
 
 from os import path as ospath, environ
 from subprocess import run as srun
