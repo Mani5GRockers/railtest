@@ -1,6 +1,5 @@
 anytree
 appdirs
-git+https://github.com/Root-Gamer/aria2p@improve-queue
 attrdict
 beautifulsoup4
 bencoding
