@@ -1,5 +1,5 @@
 anytree
--e git+https://github.com/Root-Gamer/erara2p#egg=aria2p
+-e git+https://github.com/Root-Gamer/erara2p#egg=aria2
 appdirs
 attrdict
 beautifulsoup4
