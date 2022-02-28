@@ -1,4 +1,3 @@
-pip install dotenv
 import logging
 
 from os import path as ospath, environ
