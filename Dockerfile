@@ -7,6 +7,8 @@ RUN apt install mediainfo -y
 
 RUN pip install aria2p
 
+RUN pip install qbittorrent-api
+
 COPY requirements.txt .
 RUN pip3 install --no-cache-dir -r requirements.txt
 
