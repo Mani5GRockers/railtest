@@ -3,7 +3,7 @@ import socket
 import faulthandler
 
 from telegram.ext import Updater as tgUpdater
-from aria import API as ariaAPI, Client as ariaClient
+from erara2p import API as ariaAPI, Client as ariaClient
 from os import remove as osremove, path as ospath, environ
 from requests import get as rget
 from json import loads as jsnloads
