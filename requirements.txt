@@ -73,7 +73,6 @@ tenacity==8.0.1
 TgCrypto==1.2.3
 toml==0.10.2
 tornado==6.1
-torrentool==1.1.0
 tzdata==2021.5
 tzlocal==4.1
 unattended-upgrades==0.1
